@@ -9,6 +9,18 @@ This repository contains both the **frontend** (React + Vite) and the **backend*
  
 
 
+<img width="1866" height="786" alt="Screenshot 2026-06-03 185626" src="https://github.com/user-attachments/assets/1cf656cd-9cb0-4ad0-9269-c127bb235a00" />
+
+<img width="1824" height="733" alt="Screenshot 2026-06-03 185632" src="https://github.com/user-attachments/assets/b059eb25-976e-4241-92e4-4b66fabc91c0" />
+<img width="1748" height="816" alt="Screenshot 2026-06-03 185723" src="https://github.com/user-attachments/assets/15ea4393-2d75-4561-9a7e-bf48e0a79745" />
+
+<img width="1747" height="698" alt="image" src="https://github.com/user-attachments/assets/a0d6fe04-9307-4da9-9066-855758db62ab" />
+
+
+
+
+
+
 ## 🚀 Tech Stack
 
 ### Frontend
